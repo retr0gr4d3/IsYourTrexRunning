@@ -6,7 +6,7 @@ Want to see the [source](https://cs.chromium.org/chromium/src/components/neterro
 
 ## What's that? No more needing to turn my WiFi off to play this amazing game?
 My playable.io has arrived!
-Play straight from [this online chrome link,](http://retr0gr4d3.github.io/) while keeping your Wi-Fi, at the small cost of your Wi-fe.
+Play straight from [this online chrome link,](https://retr0gr4d3.github.io/WhatThatTrexDo/) while keeping your Wi-Fi, at the small cost of your Wi-fe.
 
 ## What is the T-rex Game?
 ![ITSJUSTAGAME](assets/screenshot.gif)
